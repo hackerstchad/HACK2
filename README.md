@@ -1,8 +1,4 @@
-# HACK — Guide Éducatif de Cybersécurité & Hacking Éthique
-
-> **Avertissement légal** : Ce document est strictement destiné à un usage éducatif et éthique. Toute activité décrite ici doit être réalisée sur des systèmes que vous possédez ou pour lesquels vous disposez d'une autorisation écrite explicite. Le hacking non autorisé est illégal dans la plupart des juridictions.
-
----
+# HACK
 
 ## 📌 Table des matières
 
